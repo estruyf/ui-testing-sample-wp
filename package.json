@@ -44,7 +44,7 @@
     "@types/mocha": "2.2.38",
     "@types/sinon": "7.0.13",
     "@voitanos/jest-preset-spfx-react16": "1.2.0",
-    "ajv": "~5.2.2",
+    "ajv": "~6.12.3",
     "gulp": "~3.9.1",
     "gulp-spsync-creds": "2.3.8",
     "jest": "24.8.0",
